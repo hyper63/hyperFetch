@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "@hyper63/fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hyper63/hyperFetch.git",
+  "author": "Tom Wilson <tom@hyper.io>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  }
+}
