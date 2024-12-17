@@ -1,5 +1,5 @@
 # hyperFetch
-hyperFetch is a fetch function with expotential backoff
+hyperFetch is a fetch function with exponential backoff
 
 ## Usage
 
